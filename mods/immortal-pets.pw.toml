@@ -1,0 +1,13 @@
+name = "Immortal Pets"
+filename = "immortal_pets-fabric-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/datPm8Mq/versions/bIA3iJ8E/immortal_pets-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "4dc78e0ea5459f84c5a45bda6f9b042d4bd0d6590a57fda0b761bbc296e7b17f1b0009ee9fc355bf55cda221b9b37f2d323d3947fe81b346198d0a7797b27803"
+
+[update]
+[update.modrinth]
+mod-id = "datPm8Mq"
+version = "bIA3iJ8E"
