@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/estrogen-server.toml"
+hash = "b27ce2e69ca89b5c2b1211dc960db01a72b3c98f94d5041e18a17f6478d44e1a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "8ef92c1775411824ef42556396b69d467ed94bb1305f151e320d14810e549755"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ea430db88d8f190a053e4f3c662d2a59b6a7508778525034f2b20037ee074aec"
 metafile = true
@@ -18,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "7b9bcc299b6587626d256c571fc122e6147d8d760cb7056d537c88cce5d993f9"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "5b332b628f2bbb11afdc82f4a9d27ca3afde5ad2d21c590af5c7a080c2aa9dfa"
 metafile = true
 
 [[files]]
@@ -71,6 +84,11 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "1173755b093b4f9a8aca00520d87bc35178fe19c54e59debe5c48d0c9063b91c"
 metafile = true
@@ -112,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "5265e90f91a651c018b78641d08442da55c060ce07a020afdf86bb79d12bbe8d"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
@@ -123,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
-metafile = true
-
-[[files]]
-file = "mods/estrogen.pw.toml"
-hash = "18b0d44213fd3c7e22748e4ad775e6ce5cf243f9b38294130a826c845ae913c4"
 metafile = true
 
 [[files]]
