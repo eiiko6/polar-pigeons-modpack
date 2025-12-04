@@ -48,11 +48,6 @@ hash = "f61033f5acde76e2405e9549ff54ccdf4d3dc24a9caca015720523f02ee91033"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "7b9bcc299b6587626d256c571fc122e6147d8d760cb7056d537c88cce5d993f9"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "5b332b628f2bbb11afdc82f4a9d27ca3afde5ad2d21c590af5c7a080c2aa9dfa"
 metafile = true
@@ -228,11 +223,6 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "cc5ce2c69f275f245fccbb9f673f5b6711175034bdf41f48cfb672e652ea984b"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
@@ -300,11 +290,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
