@@ -5,8 +5,32 @@ file = "config/estrogen-server.toml"
 hash = "b27ce2e69ca89b5c2b1211dc960db01a72b3c98f94d5041e18a17f6478d44e1a"
 
 [[files]]
+file = "config/fallingleaves.json"
+hash = "ec6efc77840c8f9730fc46bff87c2df13a6f5696ddba7953d91767d73b6d8135"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "8ef92c1775411824ef42556396b69d467ed94bb1305f151e320d14810e549755"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "8f36a0097d26ab476b1bc2d5763c93d06d966d7298102ac2ed5754521f038114"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "51cada5419e852d366a323e1980be06d044f7785eff34455e70ddfa943c185aa"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "2f2da08e66874dd563be3df625431767975d5874bbc2319483702c8cb19a4c9e"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "da4d59fb611181af234a4d02f6649a3df302510e95b6e1c2786e69616d2e65ee"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ff010a44db192dea4aaf37e699d7f9f2ad1578e0876b8f6e98a26ca77e241224"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -49,11 +73,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "71dc04da11ad8f4a5d88db5505132a654ce033f05dc2fa4bb7aa28a42762086f"
 metafile = true
@@ -91,11 +110,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "1173755b093b4f9a8aca00520d87bc35178fe19c54e59debe5c48d0c9063b91c"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
 
 [[files]]
