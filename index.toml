@@ -17,10 +17,6 @@ file = "config/sophisticatedbackpacks-server.toml"
 hash = "8f36a0097d26ab476b1bc2d5763c93d06d966d7298102ac2ed5754521f038114"
 
 [[files]]
-file = "config/styled-nicknames.json"
-hash = "c02e6bcb309cc4300052d6664f6c86412bc2ebdfff42f8aa3d70591d084ff52e"
-
-[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "6729a674139b4213157926d3b4407d475fa3406ebc104bb875bf6721a8f98fb5"
 
@@ -164,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/fakename-fabric.pw.toml"
+hash = "e25f33caf38965497d923bccaf6f280db63f5258c12e1bd1dff4ea59ef5ac91a"
 metafile = true
 
 [[files]]
@@ -404,11 +405,6 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "a7cff3a04db0673f1a5a9513015c83ae0a6bee936a8c6a1ed08ae12e0e3ba2f6"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
 metafile = true
 
 [[files]]
