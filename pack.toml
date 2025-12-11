@@ -1,12 +1,12 @@
 name = "Polar Pigeons Modpack"
 author = "eiiko6"
-version = "0.2"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fb90eb7066963f068abb5ff9719f622ae354cafbcf4fd3b115e839704031b2de"
+hash = "bb0c4970da9f662cc0e6ea6fdfde62075060e67a5edafd9d88b218f3bf5a85f0"
 
 [versions]
 fabric = "0.18.1"

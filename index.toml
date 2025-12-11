@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorable-hamster-pets.pw.toml"
-hash = "11a135546ea893de4079cd81b56ff97303e95e2b3a6ffd47c54961ff0ccba79c"
+hash = "911377ca6b67e5de5110e901d5f0ae3554b076ceb693b778faebf95d19690759"
 metafile = true
 
 [[files]]
@@ -50,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "5b332b628f2bbb11afdc82f4a9d27ca3afde5ad2d21c590af5c7a080c2aa9dfa"
+metafile = true
+
+[[files]]
+file = "mods/analog.pw.toml"
+hash = "d16b012585073b25dc94673ba2d5154b34155b32a0fe44e9f147e39b88d91e88"
 metafile = true
 
 [[files]]
@@ -65,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/arsenal.pw.toml"
+hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
 
 [[files]]
@@ -90,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
@@ -150,6 +165,16 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "8ca413f9c2a155068d71e0057b23d8a199473fb78b37fe1ea864b5455e997a26"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-transfer.pw.toml"
+hash = "5f228b9e7971dd7e878cecb254f7c23e936d09a02ac7b883573963123fdf95f6"
 metafile = true
 
 [[files]]
@@ -318,6 +343,11 @@ hash = "eff75aaa788bf041f3767fb0115a0d9fbfc9d75d2464860c5b47674dfc79178e"
 metafile = true
 
 [[files]]
+file = "mods/oreganized.pw.toml"
+hash = "1cc1ad30727b2dde4ffbcc8bf4741afda52c74962f51a0fb3dc6fcf0bd7034f9"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -353,6 +383,11 @@ hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
 
 [[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
@@ -369,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fae2bc6c282159f6a2e55e22d19241c625a9795dddbe8bd0f0b501c8aa709be1"
+hash = "17dca79cbc66e1cebfd26658983f63276468d2a698c25bda943a813f5554d8ee"
 metafile = true
 
 [[files]]
@@ -418,6 +453,11 @@ hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "df71b5d7427e9a508e9f298b5cdec84aa8c4fcb584beb0d16d86efb9d47b3bcd"
 metafile = true
@@ -425,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "c95bcf2a24250de6b9abceb73777a4e1e3f2c5af157176c371f6ed84d067b987"
 metafile = true
 
 [[files]]
