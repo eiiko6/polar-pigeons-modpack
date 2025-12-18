@@ -1,4 +1,4 @@
 allowCaveModeOnServer:false
-allowNetherCaveModeOnServer:false
+allowNetherCaveModeOnServer:true
 registerStatusEffects:true
 everyoneTracksEveryone:false

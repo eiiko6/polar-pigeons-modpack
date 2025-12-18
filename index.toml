@@ -26,11 +26,11 @@ hash = "2f2da08e66874dd563be3df625431767975d5874bbc2319483702c8cb19a4c9e"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "da4d59fb611181af234a4d02f6649a3df302510e95b6e1c2786e69616d2e65ee"
+hash = "4359412488d763aabefc48a31d705bf5299a5671205eb0acf2ae3f3e2eca1910"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "ff010a44db192dea4aaf37e699d7f9f2ad1578e0876b8f6e98a26ca77e241224"
+hash = "c814a21cab7e0fcc259ebfe00a74a8178e60d3c668c01074b0e62a89cebbcdfc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
